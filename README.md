@@ -1,5 +1,5 @@
 # filecurly
-If you want a http-based sender of log messages with only linux basic commands, this repository would help right.
+If you want a http-based sender of log messages (for plain texts not encoded texts) with only linux basic commands, this repository would help right.
 This shell scripts use linux commands: tail, sed, and curl.
 
 ### Getting started

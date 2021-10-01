@@ -4,8 +4,8 @@ This shell scripts use linux commands: tail, sed, and curl.
 
 ### Getting started
 1. configure core parts
-  - `LOGCOLLECTOR_ENDPOINT="http://***"`
+  - `LOGCOLLECTOR_ENDPOINT="http://***"` in `filecurly_handler.sh`
 2. set the target log file
-  - change `fc.log` if necessary.
+  - change `fc.log` as you wish.
 3. Run
   - `bash filecurly.sh`
